@@ -10,10 +10,9 @@ A beginner-friendly Speech-to-Speech Translation System built using Python, Goog
 
 ## 📁 Project Structure
 SpeechToSpeech-Translator/
-│
-├── SpeechToSpeech_Translator_Colab.ipynb # Main Colab notebook
-├── README.md # This file
-└── sample_inputs/ # Optional folder for test mp3 files
+-SpeechToSpeech_Translator_Colab.ipynb # Main Colab notebook
+-README.md # This file
+-sample_inputs/ # Optional folder for test mp3 files
 ---
 
 ## Features
